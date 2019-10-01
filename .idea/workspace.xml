@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e8239717-3eec-47a7-9360-796c2c7432f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/application_record.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/application_record.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/category.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/category.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1560029157043</updated>
       <workItem from="1560029159356" duration="4073000" />
-      <workItem from="1571604742391" duration="15364000" />
+      <workItem from="1571604742391" duration="17481000" />
     </task>
     <task id="LOCAL-00001" summary="Additional Modification">
       <created>1560032724693</created>
