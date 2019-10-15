@@ -1,6 +1,9 @@
 class Category < ApplicationRecord
   has_many :products, dependent: :destroy
 
+  belongs_to :parent, class_name: 'Category'
+  has_many :subcategories, class_name: 'Category', foreign_key: 'parent_id'
+
   validates :name, :presence => true
   validates :prefix, :presence => true
 
