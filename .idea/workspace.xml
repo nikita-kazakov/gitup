@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8239717-3eec-47a7-9360-796c2c7432f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/branch_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git branch2-2.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560032724693</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Branch 2">
+      <created>1573774839808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573774839808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Branch 2 again">
+      <created>1573774929286</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573774929286</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +174,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Additional Modification" />
-    <option name="LAST_COMMIT_MESSAGE" value="Additional Modification" />
+    <MESSAGE value="Branch 2" />
+    <MESSAGE value="Branch 2 again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Branch 2 again" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/gitup@category.rcov" NAME="category Coverage Results" MODIFIED="1571668795877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/models" MODULE_NAME="gitup" />
